@@ -15,7 +15,7 @@ vscode-ai-codegen is a Visual Studio Code extension that leverages artificial in
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/vscode-ai-codegen.git
+   git clone https://github.com/nooblox601/vscode-ai-codegen.git
    ```
 2. Navigate to the project directory:
    ```
